@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+circular-buffer = "0.1.7"
 cod = { version = "9.0.3", default-features = false }
 errata = { version = "2.1.1", features = ["color"] }
-sarge = "7.2.4"
+size_format = "1.0.2"
